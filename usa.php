@@ -62,7 +62,7 @@ require_once "config.php";
 		 		 <li class="nav-item">
                <a class="channel nav-link" data-value="http://iptvde.mypressonline.com/" href=http://iptvde.mypressonline.com/>BACK</a>
 			<li class="nav-item">
-               <a class="channel nav-link" data-value="https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8" href="javascript:void(0);">FlixHD</a>
+               <a class="channel nav-link" data-value="https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8" href="javascript:void(0);">FlixHD</a>
             </li>
 		    <li class="nav-item">
                <a class="channel nav-link" data-value="http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8" href="javascript:void(0);">24-7 Retro TV</a>
