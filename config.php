@@ -4,10 +4,10 @@
 $title = "IPTV Video Streaming Website";
 
 //Site URL
-$site_url = "http://iptvde.mypressonline.com/";
+$site_url = "http://livetvbddh.herokuapp.com//";
 
 //Site Description
-$description = "";
+$description = "Free iptv player";
 
 //Watermark image
 $watermarkImage = "";
